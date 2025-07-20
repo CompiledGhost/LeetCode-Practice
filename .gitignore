@@ -1,0 +1,52 @@
+## Ignore for Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# DotCover
+*.dotCover
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# Rider-specific caches
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/shelf/
+.idea/**/dataSources/
+.idea/**/dataSources.local.xml
+.idea/**/dataSources.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/dataVirtualFileSystem.xml
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# OS junk
+.DS_Store
+Thumbs.db
