@@ -2,7 +2,7 @@
 
 Solutions to LeetCode problems written in C#.
 
-Each problem has its own static class and a Run() for simple calling.
+Each problem has its own static class and a Run() for simple calling. Run the problems via unit tests in the LeetCode.Tests project.
 
 Structured by Easy, Medium, and Hard.
 
