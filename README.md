@@ -1,6 +1,6 @@
 # LeetCode Practice
 
-Solutions to LeetCode problems written in C#.
+Solutions to LeetCode problems written in C#. This repo is intended to be forked to assist you with writing your own LeetCode solutions. I've included some example problems and project scaffolding.
 
 Each problem has its own static class and a Run() for simple calling. Run the problems via unit tests in the LeetCode.Tests project.
 
